@@ -122,7 +122,7 @@
                 android:layout_height="wrap_content"
                 android:paddingLeft="20dip"
                 android:paddingRight="20dip"
-	              android:tag="gatt_op_180F_2A19"
+	              android:tag="gatt_op_0000_0001"
                 android:background="#E4FEFD"
                 android:text="" />
                
@@ -136,7 +136,7 @@
 		                android:layout_width="wrap_content"
 		                android:layout_height="wrap_content"
 		                android:paddingLeft="20dip"
-		                android:tag="gatt_op_180F_2A19"
+		                android:tag="gatt_op_0000_0001"
 		                android:enabled="false"
                     android:onClick="onRead"
 		                android:text="Read" />
@@ -231,7 +231,7 @@
 		                android:layout_width="wrap_content"
 		                android:layout_height="wrap_content"
 		                android:paddingLeft="20dip"
-		                android:tag="gatt_op_181D_2A9E"
+		                android:tag="gatt_op_0000_0002"
 		                android:enabled="false"
                     android:onClick="onRead"
 		                android:text="Read" />
