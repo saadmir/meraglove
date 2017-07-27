@@ -1,10 +1,14 @@
-# meraglove
-android app for the hardware project submitted to "intel hacks" hackathon by:
+---
+layout: default
+---
 
- + [Hani Abidi \@sabidi3645](https://github.com/sabidi3645) 
- + [Saad Mir \@saadmir](https://github.com/saadmir)
- + [Jawad Nasrullah \@jawadnasarullah](https://github.com/jawadnasrullah)
 
-project description: https://devpost.com/software/meraglove
+### [mera glove](https://devpost.com/software/meraglove) 
+android app for the hardware project submitted to *[intel hacks](https://intelhacks.devpost.com/)* hackathon.
 
-download app from: https://www.dropbox.com/s/ftc1ogdxe0zkgc4/meraglove.apk?dl=0
+project description: [https://devpost.com/software/meraglove](https://devpost.com/software/meraglove)
+
+download app from: [https://www.dropbox.com/s/ftc1ogdxe0zkgc4/meraglove.apk?dl=0](https://www.dropbox.com/s/ftc1ogdxe0zkgc4/meraglove.apk?dl=0)
+
+
+team: [hani abidi](https://github.com/sabidi3645), [saad mir](https://github.com/saadmir), [jawad nasrullah](https://github.com/jawadnasrullah)
