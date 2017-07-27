@@ -1,0 +1,5 @@
+theme: jekyll-theme-tactile
+title: MeraGlove
+description: Track and analyze weight training and arm movement.
+markdown: kramdown
+show_downloads: false
