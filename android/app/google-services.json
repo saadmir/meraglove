@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "114216639369",
+    "firebase_url": "https://meragloveoauth.firebaseio.com",
+    "project_id": "meragloveoauth",
+    "storage_bucket": "meragloveoauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114216639369:android:4d59e6e13c24ede8",
+        "android_client_info": {
+          "package_name": "com.meraglove.meraglove.SignInActivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114216639369-efkl7iqgvmjrmjkmbcjokt856991f6um.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "114216639369-838e5s1ointunvdjg3jju1ong1j85tbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meraglove.meraglove.SignInActivity",
+            "certificate_hash": "feb03e64dd768a8df50939812024c37958f38d86"
+          }
+        },
+        {
+          "client_id": "114216639369-o90sdqqrsurl8cfgdbmn8sfo9luj80cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKRzamFPsY02q1l_JCPXL8n78Vr5fap5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114216639369-efkl7iqgvmjrmjkmbcjokt856991f6um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114216639369:android:acae5c066cfe73af",
+        "android_client_info": {
+          "package_name": "com.meraglove.meraglove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114216639369-efkl7iqgvmjrmjkmbcjokt856991f6um.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "114216639369-1mc06eq69hb99h50cs99hr93p3p9hi58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meraglove.meraglove",
+            "certificate_hash": "feb03e64dd768a8df50939812024c37958f38d86"
+          }
+        },
+        {
+          "client_id": "114216639369-o90sdqqrsurl8cfgdbmn8sfo9luj80cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKRzamFPsY02q1l_JCPXL8n78Vr5fap5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114216639369-efkl7iqgvmjrmjkmbcjokt856991f6um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
